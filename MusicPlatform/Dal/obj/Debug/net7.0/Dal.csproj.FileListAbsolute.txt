@@ -1,0 +1,64 @@
+C:\Users\User\Desktop\Music_progect\MusicPlatform\Dal\obj\Debug\net7.0\Dal.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Music_progect\MusicPlatform\Dal\obj\Debug\net7.0\Dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Music_progect\MusicPlatform\Dal\obj\Debug\net7.0\Dal.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Music_progect\MusicPlatform\Dal\obj\Debug\net7.0\Dal.AssemblyInfo.cs
+C:\Users\User\Desktop\Music_progect\MusicPlatform\Dal\obj\Debug\net7.0\Dal.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Music_progect\MusicPlatform\Dal\bin\Debug\net7.0\Dal.deps.json
+C:\Users\User\Desktop\Music_progect\MusicPlatform\Dal\bin\Debug\net7.0\Dal.runtimeconfig.json
+C:\Users\User\Desktop\Music_progect\MusicPlatform\Dal\bin\Debug\net7.0\Dal.dll
+C:\Users\User\Desktop\Music_progect\MusicPlatform\Dal\bin\Debug\net7.0\Dal.pdb
+C:\Users\User\Desktop\Music_progect\MusicPlatform\Dal\obj\Debug\net7.0\Dal.dll
+C:\Users\User\Desktop\Music_progect\MusicPlatform\Dal\obj\Debug\net7.0\refint\Dal.dll
+C:\Users\User\Desktop\Music_progect\MusicPlatform\Dal\obj\Debug\net7.0\Dal.pdb
+C:\Users\User\Desktop\Music_progect\MusicPlatform\Dal\obj\Debug\net7.0\Dal.genruntimeconfig.cache
+C:\Users\User\Desktop\Music_progect\MusicPlatform\Dal\obj\Debug\net7.0\ref\Dal.dll
+C:\Users\User\Desktop\project\Music-Platform\MusicPlatform\Dal\bin\Debug\net7.0\Dal.deps.json
+C:\Users\User\Desktop\project\Music-Platform\MusicPlatform\Dal\bin\Debug\net7.0\Dal.runtimeconfig.json
+C:\Users\User\Desktop\project\Music-Platform\MusicPlatform\Dal\bin\Debug\net7.0\Dal.dll
+C:\Users\User\Desktop\project\Music-Platform\MusicPlatform\Dal\bin\Debug\net7.0\Dal.pdb
+C:\Users\User\Desktop\project\Music-Platform\MusicPlatform\Dal\obj\Debug\net7.0\Dal.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\project\Music-Platform\MusicPlatform\Dal\obj\Debug\net7.0\Dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\project\Music-Platform\MusicPlatform\Dal\obj\Debug\net7.0\Dal.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\project\Music-Platform\MusicPlatform\Dal\obj\Debug\net7.0\Dal.AssemblyInfo.cs
+C:\Users\User\Desktop\project\Music-Platform\MusicPlatform\Dal\obj\Debug\net7.0\Dal.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\project\Music-Platform\MusicPlatform\Dal\obj\Debug\net7.0\Dal.dll
+C:\Users\User\Desktop\project\Music-Platform\MusicPlatform\Dal\obj\Debug\net7.0\refint\Dal.dll
+C:\Users\User\Desktop\project\Music-Platform\MusicPlatform\Dal\obj\Debug\net7.0\Dal.pdb
+C:\Users\User\Desktop\project\Music-Platform\MusicPlatform\Dal\obj\Debug\net7.0\Dal.genruntimeconfig.cache
+C:\Users\User\Desktop\project\Music-Platform\MusicPlatform\Dal\obj\Debug\net7.0\ref\Dal.dll
+C:\Users\User\Desktop\Music Progect c#\Music-Platform\MusicPlatform\Dal\bin\Debug\net7.0\Dal.deps.json
+C:\Users\User\Desktop\Music Progect c#\Music-Platform\MusicPlatform\Dal\bin\Debug\net7.0\Dal.runtimeconfig.json
+C:\Users\User\Desktop\Music Progect c#\Music-Platform\MusicPlatform\Dal\bin\Debug\net7.0\Dal.dll
+C:\Users\User\Desktop\Music Progect c#\Music-Platform\MusicPlatform\Dal\bin\Debug\net7.0\Dal.pdb
+C:\Users\User\Desktop\Music Progect c#\Music-Platform\MusicPlatform\Dal\obj\Debug\net7.0\Dal.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Music Progect c#\Music-Platform\MusicPlatform\Dal\obj\Debug\net7.0\Dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Music Progect c#\Music-Platform\MusicPlatform\Dal\obj\Debug\net7.0\Dal.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Music Progect c#\Music-Platform\MusicPlatform\Dal\obj\Debug\net7.0\Dal.AssemblyInfo.cs
+C:\Users\User\Desktop\Music Progect c#\Music-Platform\MusicPlatform\Dal\obj\Debug\net7.0\Dal.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Music Progect c#\Music-Platform\MusicPlatform\Dal\obj\Debug\net7.0\Dal.dll
+C:\Users\User\Desktop\Music Progect c#\Music-Platform\MusicPlatform\Dal\obj\Debug\net7.0\refint\Dal.dll
+C:\Users\User\Desktop\Music Progect c#\Music-Platform\MusicPlatform\Dal\obj\Debug\net7.0\Dal.pdb
+C:\Users\User\Desktop\Music Progect c#\Music-Platform\MusicPlatform\Dal\obj\Debug\net7.0\Dal.genruntimeconfig.cache
+C:\Users\User\Desktop\Music Progect c#\Music-Platform\MusicPlatform\Dal\obj\Debug\net7.0\ref\Dal.dll
+H:\C#\progect\2\Music-Platform\MusicPlatform\Dal\bin\Debug\net7.0\Dal.deps.json
+H:\C#\progect\2\Music-Platform\MusicPlatform\Dal\bin\Debug\net7.0\Dal.runtimeconfig.json
+H:\C#\progect\2\Music-Platform\MusicPlatform\Dal\bin\Debug\net7.0\Dal.dll
+H:\C#\progect\2\Music-Platform\MusicPlatform\Dal\bin\Debug\net7.0\Dal.pdb
+H:\C#\progect\2\Music-Platform\MusicPlatform\Dal\obj\Debug\net7.0\Dal.csproj.AssemblyReference.cache
+H:\C#\progect\2\Music-Platform\MusicPlatform\Dal\obj\Debug\net7.0\Dal.GeneratedMSBuildEditorConfig.editorconfig
+H:\C#\progect\2\Music-Platform\MusicPlatform\Dal\obj\Debug\net7.0\Dal.AssemblyInfoInputs.cache
+H:\C#\progect\2\Music-Platform\MusicPlatform\Dal\obj\Debug\net7.0\Dal.AssemblyInfo.cs
+H:\C#\progect\2\Music-Platform\MusicPlatform\Dal\obj\Debug\net7.0\Dal.csproj.CoreCompileInputs.cache
+H:\C#\progect\2\Music-Platform\MusicPlatform\Dal\obj\Debug\net7.0\Dal.dll
+H:\C#\progect\2\Music-Platform\MusicPlatform\Dal\obj\Debug\net7.0\refint\Dal.dll
+H:\C#\progect\2\Music-Platform\MusicPlatform\Dal\obj\Debug\net7.0\Dal.pdb
+H:\C#\progect\2\Music-Platform\MusicPlatform\Dal\obj\Debug\net7.0\Dal.genruntimeconfig.cache
+H:\C#\progect\2\Music-Platform\MusicPlatform\Dal\obj\Debug\net7.0\ref\Dal.dll
+S:\HandesaimV\Public\הגשת מבחנים ועבודות\Group1\C#\MusicPlatform\Dal\obj\Debug\net7.0\Dal.csproj.AssemblyReference.cache
+S:\HandesaimV\Public\הגשת מבחנים ועבודות\Group1\C#\MusicPlatform\Dal\obj\Debug\net7.0\Dal.GeneratedMSBuildEditorConfig.editorconfig
+S:\HandesaimV\Public\הגשת מבחנים ועבודות\Group1\C#\MusicPlatform\Dal\obj\Debug\net7.0\Dal.AssemblyInfoInputs.cache
+S:\HandesaimV\Public\הגשת מבחנים ועבודות\Group1\C#\MusicPlatform\Dal\obj\Debug\net7.0\Dal.AssemblyInfo.cs
+S:\HandesaimV\Public\הגשת מבחנים ועבודות\Group1\C#\MusicPlatform\Dal\obj\Debug\net7.0\Dal.csproj.CoreCompileInputs.cache
+S:\HandesaimV\Public\הגשת מבחנים ועבודות\Group1\C#\MusicPlatform\Dal\obj\Debug\net7.0\Dal.dll
+S:\HandesaimV\Public\הגשת מבחנים ועבודות\Group1\C#\MusicPlatform\Dal\obj\Debug\net7.0\refint\Dal.dll
+S:\HandesaimV\Public\הגשת מבחנים ועבודות\Group1\C#\MusicPlatform\Dal\obj\Debug\net7.0\Dal.pdb
